@@ -11,7 +11,7 @@ To set up and run this application on your local machine, follow these detailed 
 Begin by cloning this repository to your local machine. Open your terminal or command prompt and execute the following command:
 
 ```bash
-git clone https://github.com/yourusername/speech-recognition.git
+git clone https://github.com/WackyGlow/ThyrSoft.VoiceCommand.git
 ```
 
 ### 2. Set up Microsoft Cognitive Services
