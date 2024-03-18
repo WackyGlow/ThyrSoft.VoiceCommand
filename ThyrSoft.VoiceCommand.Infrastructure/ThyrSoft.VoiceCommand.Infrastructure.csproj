@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ThyreSoft.VoiceCommand.Domain\ThyreSoft.VoiceCommand.Domain.csproj" />
+    <ProjectReference Include="..\ThyrSoft.VoiceCommand.Application\ThyrSoft.VoiceCommand.Application.csproj" />
   </ItemGroup>
 
 </Project>

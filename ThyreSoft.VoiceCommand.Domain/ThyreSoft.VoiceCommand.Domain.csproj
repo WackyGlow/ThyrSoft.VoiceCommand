@@ -8,9 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Entities\" />
-    <Folder Include="Aggregates\" />
     <Folder Include="IRepositories\" />
-    <Folder Include="ValueObjects\" />
   </ItemGroup>
 
 </Project>

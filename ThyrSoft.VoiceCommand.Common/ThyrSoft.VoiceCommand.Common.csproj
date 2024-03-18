@@ -11,6 +11,7 @@
     <Folder Include="Authentication\" />
     <Folder Include="Authorization\" />
     <Folder Include="ErrorHandling\" />
+    <Folder Include="GlobalVars\" />
   </ItemGroup>
 
 </Project>
